@@ -1,3 +1,3 @@
-# LevelEditing
+# Level Deco
 
-Developed with Unreal Engine 4
+This is the level decoration project
